@@ -1,2 +1,2 @@
 # Bracket-Combinations
-it is the combination of brackets
+it is used to find the matching paranthesis to build the logics 
